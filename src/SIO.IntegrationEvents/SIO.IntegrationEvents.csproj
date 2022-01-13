@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>SIO.IntegrationEvents</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>sound-it-out</Authors>
+    <Company>sound-it-out</Company>
+    <PackageDescription></PackageDescription>
+    <RepositoryUrl>https://github.com/sound-it-out/sio-integrationevents</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SIO.Infrastructure" Version="0.0.7" />
+  </ItemGroup>
+
+</Project>
